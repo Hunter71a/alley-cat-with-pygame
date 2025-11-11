@@ -8,3 +8,5 @@ animations.
 In order to test the game, it uses an older version of PYGAME that is only compatible with
 PYTHON 2.7 or equivalent.
 
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/ed321aa0-72b6-461e-9782-ce2a540ef6e3" />
+
